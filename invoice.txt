@@ -1,0 +1,17 @@
+Order number: 1
+Customer: Darryl
+Email: abc@def.com
+Phone number: 076 333 4444
+Location: Durban
+
+You have ordered the following from KFC in Durban:
+1 x Burger (R55)
+Special instructions: None
+Total: R55
+
+Eugene Santana is nearest to the restaurant and they will be delivering your
+order to you at:
+100 Beach Rd
+Durban
+
+If you need to contact the restaurant, their number is 111 222 3333.
