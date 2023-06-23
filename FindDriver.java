@@ -7,7 +7,7 @@ public class FindDriver {
 
   public static void main(String[] args) {
 	// Path to the file containing driver information
-	String fileName = "C:\\Users\\darry\\OneDrive\\Desktop\\HyperionDev\\Dropbox\\DB23010005997\\2. Advanced Programming Concepts\\L2T07\\drivers.txt";
+	String fileName = "C:\\Users\\darry\\OneDrive\\Desktop\\HyperionDev\\Dropbox\\DB23010005997\\2. Advanced Programming Concepts\\L2T07\\driver-info.txt";
     
 	// Retrieve the search area from customer location
 	String searchArea = customer.getCustomerLocation(); 

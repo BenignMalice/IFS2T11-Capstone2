@@ -1,17 +1,17 @@
 Order number: 1
 Customer: Darryl
-Email: abc@def.com
-Phone number: 076 333 4444
-Location: Durban
+Email: email@address.com
+Phone number: 076 111 2222
+Location: Cape Town
 
-You have ordered the following from KFC in Durban:
-1 x Burger (R55)
-Special instructions: None
+You have ordered the following from Nandos in Cape Town:
+1 x Chicken burger (R55)
+Special instructions: Extra hot
 Total: R55
 
-Eugene Santana is nearest to the restaurant and they will be delivering your
+Miranda Metcalfe is nearest to the restaurant and they will be delivering your
 order to you at:
-100 Beach Rd
-Durban
+100 Beach rd
+Cape Town
 
-If you need to contact the restaurant, their number is 111 222 3333.
+If you need to contact the restaurant, their number is 021 333 4444.

@@ -6,7 +6,7 @@ public class ReadFile {
   public void findDriverWithSmallestLoad() {
     try {
       // Create scanner object to read from the file
-      Scanner input = new Scanner(new File("drivers.txt"));
+      Scanner input = new Scanner(new File("driver-info.txt"));
       int smallestLoad = Integer.MAX_VALUE;
       String smallestLoadDriver = "";
       String restaurantArea = ""; 
